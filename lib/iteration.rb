@@ -69,5 +69,3 @@ i = 0
   return total
 end
 
-
-end
